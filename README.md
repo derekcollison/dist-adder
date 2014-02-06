@@ -34,12 +34,12 @@ Adder [32fa2147] is ready
 
 Sending 10 requests.
 
-Request: {X:3 Y:48}	  Response: {Ans:51 Id:043bd0aa}
+Request: {X:3 Y:48}	    Response: {Ans:51 Id:043bd0aa}
 Request: {X:85 Y:89}	Response: {Ans:174 Id:043bd0aa}
 Request: {X:55 Y:48}	Response: {Ans:103 Id:bff14500}
 Request: {X:30 Y:65}	Response: {Ans:95 Id:6f9b9644}
-Request: {X:5 Y:74}	  Response: {Ans:79 Id:043bd0aa}
-Request: {X:99 Y:85}	Response: {Ans:184 Id:292ceae2}
+Request: {X:5 Y:74}	    Response: {Ans:79 Id:043bd0aa}
+Request: {X:99 Y:85}    Response: {Ans:184 Id:292ceae2}
 Request: {X:96 Y:87}	Response: {Ans:183 Id:292ceae2}
 Request: {X:47 Y:73}	Response: {Ans:120 Id:292ceae2}
 Request: {X:68 Y:21}	Response: {Ans:89 Id:bff14500}
@@ -85,11 +85,11 @@ Sending 10 requests.
 Request: {X:90 Y:86}	Response: {Ans:176 Id:9de124c4}
 Request: {X:70 Y:43}	Response: {Ans:113 Id:441900e0}
 Request: {X:33 Y:70}	Response: {Ans:103 Id:65751e77}
-Request: {X:0 Y:26}	  Response: {Ans:26 Id:441900e0}
+Request: {X:0 Y:26}	    Response: {Ans:26 Id:441900e0}
 Request: {X:10 Y:34}	Response: {Ans:44 Id:785dc6c2}
 Request: {X:53 Y:68}	Response: {Ans:121 Id:65751e77}
 Request: {X:93 Y:47}	Response: {Ans:140 Id:65751e77}
-Request: {X:67 Y:3}	  Response: {Ans:70 Id:f861dc2d}
+Request: {X:67 Y:3}	    Response: {Ans:70 Id:f861dc2d}
 Request: {X:44 Y:85}	Response: {Ans:129 Id:ce6ea17e}
 Request: {X:66 Y:39}	Response: {Ans:105 Id:28d398bf}
 
